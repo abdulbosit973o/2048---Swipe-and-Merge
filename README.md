@@ -6,29 +6,8 @@ Bu klassik 2048 o‘yinining mobil ilova versiyasi. Foydalanuvchilar raqamlarni 
 
 ## Skrinshotlar
 Quyida ilovaning asosiy sahifalari keltirilgan:
-| Home Screen | Game Initial State  | Game Full State |
-|-------------|-------------------------|-------------------|
-| ![Home Screen](images/2048-home.jpg) | ![Game Initial State](images/2048-game-init.jpg) | ![Game Full State](images/2048-game-full.jpg) |
-### Boshlang‘ich ekran
-![Home Screen](images/2048-home.jpg)
-
-### O‘yin boshlanishi
-![Game Initial State](images/2048-game-init.jpg)
-
-### To‘liq o‘yin holati
-![Game Full State](images/2048-game-full.jpg)
-
-### O‘yin tugashi
-![Game Over](images/2048-game-over.jpg)
-
-### Statistikalar
-![Game Stats](images/2048-game-stats.jpg)
-
-### Ma’lumot sahifasi
-![Info Page](images/2048-info.jpg)
-
-### Rasmli ma’lumot
-![Picture Info](images/2048-picture-info.jpg)
+| ![Home Screen](images/2048-home.jpg) | ![Game Initial State](images/2048-game-init.jpg) | ![Info Page](images/2048-info.jpg) |
+| ![Game Full State](images/2048-game-full.jpg) | ![Game Over](images/2048-game-over.jpg) | ![Game Stats](images/2048-game-stats.jpg) |
 
 ## Xususiyatlari
 - Oddiy va qulay interfeys
